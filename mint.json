@@ -50,11 +50,10 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Staff Guid",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "Home",
+        "Staff Expections"
       ]
     },
     {
